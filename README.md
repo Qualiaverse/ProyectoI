@@ -11,9 +11,10 @@ Este proyecto de carro eléctrico a escala es un ejemplo de cómo estas discipli
 El objetivo principal es diseñar y construir un prototipo que no solo sea capaz de moverse de manera autónoma, sino que también incorpore tecnologías avanzadas para mejorar su interacción con el entorno.
 </p>
 
-* [Ver Documento del Proyecto Integrador]()
-* [Ver Presentacion del Proyecto Integrador](https://github.com/Qualiaverse/ProyectoI/blob/main/Presentacio.pdf) 
-* [Ver Articulo del Proyecto Integrador]()
+* [Ver Documento](https://github.com/Qualiaverse/ProyectoI/blob/main/ProyectoI.pdf)
+* [Ver Presentacion](https://github.com/Qualiaverse/ProyectoI/blob/main/Presentacio.pdf) 
+* [Ver Articulo](https://github.com/Qualiaverse/ProyectoI/blob/main/Articulo.pdf)
+
 <p align="center">
   <img src="https://github.com/Qualiaverse/ProyectoI/blob/main/test2.jpg" alt="Imagen de Representación" width="600px">
 </p>
